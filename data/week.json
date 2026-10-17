@@ -1,0 +1,763 @@
+{
+ "couldNotRead": [
+  "Springfield Daily Citizen calendar",
+  "417 Magazine full events calendar (script)",
+  "Moxie Cinema showtimes (no dates)",
+  "Springfield Little Theatre performance calendar (image)",
+  "Explore Branson (stale listings)",
+  "Springfield Art Museum (stale homepage)",
+  "Springfield-Greene County Library (not attempted, SSL issue)",
+  "Ozark Empire Fairgrounds (not attempted, script)",
+  "OzarksFirst, Macaroni KID, Eventbrite, AllEvents (not attempted)"
+ ],
+ "events": [
+  {
+   "day": "2026-10-19",
+   "note": "Runs daily through Oct. 31; 20,000+ lit pumpkins after dark, craft demos, giant pumpkins.",
+   "price": "",
+   "tags": [
+    "festival",
+    "family"
+   ],
+   "time": "",
+   "title": "Silver Dollar City Harvest Festival and Pumpkins in the City",
+   "town": "Branson",
+   "url": "https://prodcms.silverdollarcity.com/press/harvest-festival-2026/",
+   "venue": "Silver Dollar City"
+  },
+  {
+   "day": "2026-10-19",
+   "price": "Free",
+   "tags": [
+    "class"
+   ],
+   "time": "5:30 p.m.",
+   "title": "Mahj Mondays",
+   "town": "Springfield",
+   "url": "https://gillioztheatre.com/event/mahj-mondays-at-the-gillioz-3/",
+   "venue": "Gillioz Theatre"
+  },
+  {
+   "day": "2026-10-19",
+   "price": "",
+   "tags": [
+    "comedy"
+   ],
+   "time": "7 p.m.",
+   "title": "Aaron Branch",
+   "town": "Springfield",
+   "url": "https://www.comedyspringfield.com/shows/372314",
+   "venue": "Springfield Comedy Club"
+  },
+  {
+   "day": "2026-10-20",
+   "price": "$35",
+   "tags": [
+    "arts",
+    "class"
+   ],
+   "time": "6 to 8 p.m.",
+   "title": "Painting with a Splash: Anglerfish",
+   "town": "Springfield",
+   "url": "https://wondersofwildlife.org/event/painting-with-a-splash-angler-fish/2026-10-20/",
+   "venue": "Wonders of Wildlife"
+  },
+  {
+   "day": "2026-10-20",
+   "note": "Few seats left at last check.",
+   "price": "$54",
+   "tags": [
+    "food",
+    "class"
+   ],
+   "time": "6:30 to 8:30 p.m.",
+   "title": "Taco Tuesday: Tacos Gone Global Cooking Experience",
+   "town": "Springfield",
+   "url": "https://www.pickwickandcherry.com/event/taco-tuesday-tacos-without-borders-cooking-experience-4/",
+   "venue": "Pickwick & Cherry"
+  },
+  {
+   "day": "2026-10-20",
+   "note": "Missouri Through Film series with Drury; discussion follows. Rated R.",
+   "price": "Free",
+   "tags": [
+    "film"
+   ],
+   "time": "7 p.m.",
+   "title": "Ride with the Devil (1999): Missouri Humanities screening",
+   "town": "Springfield",
+   "url": "https://www.itsalldowntown.com/calendar/mo-humanities-ride-with-the-devil-1999-at-moxie-cinema-free/",
+   "venue": "Moxie Cinema"
+  },
+  {
+   "day": "2026-10-21",
+   "note": "",
+   "price": "Free",
+   "tags": [
+    "arts",
+    "class"
+   ],
+   "time": "10 to 11 a.m.",
+   "title": "America's New Deal: The WPA's Federal Project Number One",
+   "town": "Springfield",
+   "url": "https://www.ksmu.org/community-calendar/event/americas-new-deal-the-wpas-federal-project-number-one-program-05-10-2026-11-37-15",
+   "venue": "The Library Center"
+  },
+  {
+   "day": "2026-10-21",
+   "note": "Doors 1 p.m.",
+   "price": "$0 to $10",
+   "tags": [
+    "film",
+    "family"
+   ],
+   "time": "2 p.m.",
+   "title": "Movie Matinee: Chitty Chitty Bang Bang",
+   "town": "Springfield",
+   "url": "https://gillioztheatre.com/event/movie-matinee-chitty-chitty-bang-bang/gillioz-theatre/e-springfield-missouri/",
+   "venue": "Gillioz Theatre"
+  },
+  {
+   "day": "2026-10-21",
+   "price": "Free",
+   "tags": [
+    "food",
+    "music"
+   ],
+   "time": "5 to 8 p.m.",
+   "title": "Oktoberfest benefit for Springfield Center for Dyslexia and Learning",
+   "town": "Springfield",
+   "url": "https://www.417mag.com/things-to-do/this-weekend/",
+   "venue": "4 By 4 Brewing"
+  },
+  {
+   "day": "2026-10-21",
+   "note": "Led by flower preservation artist Hannah Klein.",
+   "price": "",
+   "tags": [
+    "class",
+    "arts"
+   ],
+   "time": "6 to 8 p.m.",
+   "title": "DIY Dried Floral Wreath",
+   "town": "Ozark",
+   "url": "https://finleyfarmsmo.com/events/diy-dried-floral-wreath/",
+   "venue": "Finley Farms"
+  },
+  {
+   "day": "2026-10-21",
+   "note": "Doors 6 p.m. All ages.",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "6:30 p.m.",
+   "title": "Dark Divine",
+   "town": "Springfield",
+   "url": "https://app.opendate.io/v/the-regency-live-1324",
+   "venue": "The Regency Live"
+  },
+  {
+   "day": "2026-10-21",
+   "price": "$12; $10 seniors and students",
+   "tags": [
+    "film"
+   ],
+   "time": "7 p.m.",
+   "title": "Essential Arthouse: Under the Skin (2013)",
+   "town": "Springfield",
+   "url": "https://www.itsalldowntown.com/calendar/essential-arthouse-under-the-skin-2013-at-moxie-cinema/",
+   "venue": "Moxie Cinema"
+  },
+  {
+   "day": "2026-10-21",
+   "price": "",
+   "tags": [
+    "comedy"
+   ],
+   "time": "7 p.m.",
+   "title": "Dustin Nickerson",
+   "town": "Springfield",
+   "url": "https://www.comedyspringfield.com/shows/351068",
+   "venue": "Springfield Comedy Club"
+  },
+  {
+   "day": "2026-10-21",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "8 to 10 p.m.",
+   "title": "MSU Jazz Night",
+   "town": "Springfield",
+   "url": "https://www.417jazz.com/live-jazz-springfield-missouri-jazz-near-me/msu-jazz-night-3mzmb-wwn9e-jytcz-8j3nw-gl5es-bjmx9-x8xas-gsn6l-m687l-d8dlx-2aby3-e8wam",
+   "venue": "Dugout Bar and Grill"
+  },
+  {
+   "day": "2026-10-22",
+   "price": "",
+   "tags": [
+    "sports"
+   ],
+   "time": "4 p.m.",
+   "title": "Missouri State women's soccer vs. Kennesaw State",
+   "town": "Springfield",
+   "url": "https://missouristatebears.com/sports/womens-soccer/schedule/2026",
+   "venue": "Betty & Bobby Allison South Stadium"
+  },
+  {
+   "day": "2026-10-22",
+   "note": "With the Springfield Art Museum. Pre-registration required.",
+   "price": "Free",
+   "tags": [
+    "arts"
+   ],
+   "time": "6 to 7 p.m.",
+   "title": "Slow Viewing: Missouri State Biennial Faculty Exhibition",
+   "town": "Springfield",
+   "url": "https://www.ksmu.org/community-calendar/event/slow-viewing-with-the-springfield-art-museum-and-the-carolla-arts-center-25-06-2026-13-10-08",
+   "venue": "Carolla Arts Exhibition Center"
+  },
+  {
+   "day": "2026-10-22",
+   "note": "Also Oct. 23 and 24.",
+   "price": "$90",
+   "tags": [
+    "food",
+    "class"
+   ],
+   "time": "6:30 to 9 p.m.",
+   "title": "Patagonian Date Night Cooking Experience",
+   "town": "Springfield",
+   "url": "https://www.pickwickandcherry.com/event/patagonian-date-night-cooking-experience-4/",
+   "venue": "Pickwick & Cherry"
+  },
+  {
+   "day": "2026-10-22",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "7 to 9 p.m.",
+   "title": "The BG Jazz Band with Laura French",
+   "town": "Springfield",
+   "url": "https://www.417jazz.com/live-jazz-springfield-missouri-jazz-near-me/the-bg-jazz-band-with-laura-french-sgnt3-752s8-cd8wb-5ybz5-gd8x9-enp8y-4pkhl-nxkax-3cf83-wllz6-5jbdh-gma3m-ma2j2-s2hd9-t9z8h-6l26j-4zkys-txt6r-l2h5n-dp6hh-slblh-w6exm-4dctd-rj6wz",
+   "venue": "Schultz and Dooley's"
+  },
+  {
+   "day": "2026-10-22",
+   "price": "",
+   "tags": [
+    "comedy"
+   ],
+   "time": "7 p.m.",
+   "title": "Kevin James Thornton",
+   "town": "Springfield",
+   "url": "https://www.comedyspringfield.com/shows/359861",
+   "venue": "Springfield Comedy Club"
+  },
+  {
+   "day": "2026-10-22",
+   "price": "",
+   "tags": [
+    "sports"
+   ],
+   "time": "7:30 p.m.",
+   "title": "Missouri State men's soccer vs. Bradley",
+   "town": "Springfield",
+   "url": "https://missouristatebears.com/sports/mens-soccer/schedule/2026",
+   "venue": "Betty & Bobby Allison South Stadium"
+  },
+  {
+   "day": "2026-10-22",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "8 p.m.",
+   "title": "Jimmy Fortune",
+   "town": "Branson",
+   "url": "https://www.themansiontheatre.com/",
+   "venue": "The Mansion Theatre"
+  },
+  {
+   "day": "2026-10-22",
+   "note": "Doors 8 p.m.",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "8:30 p.m.",
+   "title": "Rittz: Before the Drop Tour",
+   "town": "Springfield",
+   "url": "https://app.opendate.io/v/the-regency-live-1324",
+   "venue": "The Regency Live"
+  },
+  {
+   "day": "2026-10-23",
+   "note": "Day camp for kids.",
+   "price": "$60",
+   "tags": [
+    "family"
+   ],
+   "time": "8 a.m. to 3 p.m.",
+   "title": "School's Out Day: Creepy Critters",
+   "town": "Springfield",
+   "url": "https://wondersofwildlife.org/event/schools-out-day-creepy-critters/",
+   "venue": "Wonders of Wildlife"
+  },
+  {
+   "day": "2026-10-23",
+   "note": "21+. Food and drink vendors on site.",
+   "price": "$10 advance, $12 at gate",
+   "tags": [
+    "outdoors"
+   ],
+   "time": "5 to 8 p.m.",
+   "title": "Sunset Strolls in the Japanese Garden",
+   "town": "Springfield",
+   "url": "https://www.parkboard.org/Calendar.aspx?EID=9810",
+   "venue": "Mizumoto Japanese Stroll Garden"
+  },
+  {
+   "day": "2026-10-23",
+   "price": "$18",
+   "tags": [
+    "family"
+   ],
+   "time": "6 to 8 p.m.",
+   "title": "Trick-or-Treat Under the Sea",
+   "town": "Springfield",
+   "url": "https://wondersofwildlife.org/event/trick-or-treat-under-the-sea/",
+   "venue": "Wonders of Wildlife"
+  },
+  {
+   "day": "2026-10-23",
+   "note": "MSU Public Affairs Conference keynote. No ticket required; paid VIP reception available.",
+   "price": "Free",
+   "tags": [
+    "arts"
+   ],
+   "time": "7 p.m.",
+   "title": "An Evening with Rainn Wilson",
+   "town": "Springfield",
+   "url": "https://www.hammonshall.com/viewshow.aspx?ID=4089",
+   "venue": "Juanita K. Hammons Hall"
+  },
+  {
+   "day": "2026-10-23",
+   "note": "Also Saturday.",
+   "price": "",
+   "tags": [
+    "comedy"
+   ],
+   "time": "7 p.m. and 9:45 p.m.",
+   "title": "T.J. Miller",
+   "town": "Springfield",
+   "url": "https://www.comedyspringfield.com/shows/359099",
+   "venue": "Springfield Comedy Club"
+  },
+  {
+   "day": "2026-10-23",
+   "note": "Springfield Little Theatre. Runs through Oct. 25; 7:30 p.m. evenings, 2 p.m. Sunday. Check show page for exact dates.",
+   "price": "$35 to $60",
+   "tags": [
+    "theatre"
+   ],
+   "time": "7:30 p.m.",
+   "title": "Arsenic and Old Lace",
+   "town": "Springfield",
+   "url": "https://www.springfieldlittletheatre.org/show/arsenic-old-lace/",
+   "venue": "The Landers Theatre"
+  },
+  {
+   "day": "2026-10-23",
+   "note": "Runs through Nov. 1; 7:30 p.m. evenings, 2 p.m. Sunday matinees.",
+   "price": "$41",
+   "tags": [
+    "theatre",
+    "music"
+   ],
+   "time": "7:30 p.m.",
+   "title": "Jesus Christ Superstar",
+   "town": "Springfield",
+   "url": "https://www.417mag.com/things-to-do/this-weekend/",
+   "venue": "Historic Fox Theatre"
+  },
+  {
+   "day": "2026-10-23",
+   "note": "Doors 7 p.m.",
+   "price": "$12",
+   "tags": [
+    "film"
+   ],
+   "time": "8 p.m.",
+   "title": "Fall Classics: The Rocky Horror Picture Show",
+   "town": "Springfield",
+   "url": "https://gillioztheatre.com/event/fall-classics-rocky-horror-picture-show-2026/gillioz-theatre/e-springfield-missouri/",
+   "venue": "Gillioz Theatre"
+  },
+  {
+   "day": "2026-10-23",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "8 p.m.",
+   "title": "Gene Watson",
+   "town": "Branson",
+   "url": "https://www.themansiontheatre.com/",
+   "venue": "The Mansion Theatre"
+  },
+  {
+   "day": "2026-10-24",
+   "note": "Corn maze, hayrides, pumpkin patch. Check site for hours.",
+   "price": "Free entry; activity tickets extra",
+   "tags": [
+    "family",
+    "festival",
+    "outdoors"
+   ],
+   "time": "",
+   "title": "Harvest Fest",
+   "town": "Springfield",
+   "url": "https://www.parkboard.org/harvestfest",
+   "venue": "Rutledge-Wilson Farm Park"
+  },
+  {
+   "day": "2026-10-24",
+   "note": "First annual; walkers welcome. Finishers get pumpkin roll.",
+   "price": "$45",
+   "tags": [
+    "sports",
+    "outdoors"
+   ],
+   "time": "8 to 10 a.m.",
+   "title": "Pumpkin Roll 5K",
+   "town": "Springfield",
+   "url": "https://www.parkboard.org/Calendar.aspx?EID=9648",
+   "venue": "Rutledge-Wilson Farm Park"
+  },
+  {
+   "day": "2026-10-24",
+   "note": "Final weeks of the 2026 season.",
+   "price": "Free",
+   "tags": [
+    "food"
+   ],
+   "time": "9 a.m. to 2 p.m.",
+   "title": "C-Street City Market",
+   "town": "Springfield",
+   "url": "https://www.cstreetcitymarket.org/",
+   "venue": "Historic Commercial Street"
+  },
+  {
+   "day": "2026-10-24",
+   "note": "Costumes welcome. Register by Oct. 23. Listing also mentions Gray/Campbell Farmstead; confirm location.",
+   "price": "Free",
+   "tags": [
+    "family"
+   ],
+   "time": "11 a.m. to 1 p.m.",
+   "title": "Halloween Fest",
+   "town": "Springfield",
+   "url": "https://www.parkboard.org/Calendar.aspx?EID=9784",
+   "venue": "Springfield Botanical Gardens"
+  },
+  {
+   "day": "2026-10-24",
+   "note": "Costume parade; rain or shine.",
+   "price": "$2 per person or pet",
+   "tags": [
+    "family",
+    "festival"
+   ],
+   "time": "11 a.m. to 4 p.m.",
+   "title": "Pets and Pumpkins Family Festival",
+   "town": "Springfield",
+   "url": "https://www.springfieldmo.gov/Calendar.aspx?EID=22501&month=10&year=2026&day=24&calType=0",
+   "venue": "Park Central Square"
+  },
+  {
+   "day": "2026-10-24",
+   "price": "$59",
+   "tags": [
+    "food",
+    "class"
+   ],
+   "time": "11 a.m. to 1:30 p.m.",
+   "title": "Dim Sum Cooking Experience",
+   "town": "Springfield",
+   "url": "https://www.pickwickandcherry.com/event/dim-sum-cooking-experience-7/",
+   "venue": "Pickwick & Cherry"
+  },
+  {
+   "day": "2026-10-24",
+   "price": "$59",
+   "tags": [
+    "food",
+    "class",
+    "family"
+   ],
+   "time": "1 to 4 p.m.",
+   "title": "Spooky Cookie Decorating",
+   "town": "Springfield",
+   "url": "https://www.pickwickandcherry.com/event/spooky-cookie-decorating-11/",
+   "venue": "Pickwick & Cherry"
+  },
+  {
+   "day": "2026-10-24",
+   "note": "21+.",
+   "price": "$35 to $65",
+   "tags": [
+    "food",
+    "festival"
+   ],
+   "time": "1 to 5 p.m.",
+   "title": "Ozarks Beerfest",
+   "town": "Springfield",
+   "url": "https://www.ksmu.org/community-calendar/event/ozarks-beerfest-11-06-2026-15-46-54",
+   "venue": "Springfield Expo Center"
+  },
+  {
+   "day": "2026-10-24",
+   "price": "",
+   "tags": [
+    "comedy"
+   ],
+   "time": "3 p.m.",
+   "title": "Ify Nwadiwe",
+   "town": "Springfield",
+   "url": "https://www.comedyspringfield.com/shows/379191",
+   "venue": "Springfield Comedy Club"
+  },
+  {
+   "day": "2026-10-24",
+   "note": "Local short-film awards.",
+   "price": "Free",
+   "tags": [
+    "film",
+    "arts"
+   ],
+   "time": "6 p.m.",
+   "title": "FiveFest 2026 and SATO48 Awards Ceremony",
+   "town": "Springfield",
+   "url": "https://gillioztheatre.com/event/fivefest-2026-winner-announcements-the-sato48-october-2026-recognition-awards-ceremony/",
+   "venue": "Gillioz Theatre"
+  },
+  {
+   "day": "2026-10-24",
+   "price": "",
+   "tags": [
+    "comedy"
+   ],
+   "time": "6 p.m. and 8:45 p.m.",
+   "title": "T.J. Miller",
+   "town": "Springfield",
+   "url": "https://www.comedyspringfield.com/shows/359100",
+   "venue": "Springfield Comedy Club"
+  },
+  {
+   "day": "2026-10-24",
+   "note": "Doors 6 p.m.",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "7 p.m.",
+   "title": "Queen City Rage Fest",
+   "town": "Springfield",
+   "url": "https://app.opendate.io/v/the-regency-live-1324",
+   "venue": "The Regency Live"
+  },
+  {
+   "day": "2026-10-24",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "8 p.m.",
+   "title": "Josh Turner",
+   "town": "Branson",
+   "url": "https://www.themansiontheatre.com/",
+   "venue": "The Mansion Theatre"
+  },
+  {
+   "day": "2026-10-25",
+   "note": "316 W Atlantic St. Time not listed.",
+   "price": "Free",
+   "tags": [
+    "film",
+    "music"
+   ],
+   "time": "",
+   "title": "Orfeo ed Euridice free screening (Opera-tober in Woodland Heights)",
+   "town": "Springfield",
+   "url": "https://www.ksmu.org/community-calendar/event/opera-tober-in-woodland-heights-the-bartered-bride-14-10-2026-12-25-16",
+   "venue": "Charlie Norr Community Center"
+  },
+  {
+   "day": "2026-10-25",
+   "note": "Future Bears Kids Club Day.",
+   "price": "",
+   "tags": [
+    "sports",
+    "family"
+   ],
+   "time": "1 p.m.",
+   "title": "Missouri State women's soccer vs. FIU",
+   "town": "Springfield",
+   "url": "https://missouristatebears.com/sports/womens-soccer/schedule/2026",
+   "venue": "Betty & Bobby Allison South Stadium"
+  },
+  {
+   "day": "2026-10-25",
+   "price": "$0 to $10",
+   "tags": [
+    "arts"
+   ],
+   "time": "2 p.m.",
+   "title": "Gillioz Theatre Historic Tour",
+   "town": "Springfield",
+   "url": "https://gillioztheatre.com/event/gillioz-theatre-historic-tour-2/gillioz-theatre/e-springfield-missouri/",
+   "venue": "Gillioz Theatre"
+  },
+  {
+   "day": "2026-10-25",
+   "note": "900 N Eastgate Ave. Pony rides, inflatables, carnival rides, food trucks.",
+   "price": "Free",
+   "tags": [
+    "family",
+    "festival"
+   ],
+   "time": "3 to 5 p.m.",
+   "title": "Fall Fest",
+   "town": "Springfield",
+   "url": "https://www.itsalldowntown.com/calendar/fall-fest-3/",
+   "venue": "High Street Church"
+  },
+  {
+   "day": "2026-10-25",
+   "note": "3555 S Fremont Ave.",
+   "price": "Free",
+   "tags": [
+    "music"
+   ],
+   "time": "3 to 4 p.m.",
+   "title": "Springfield Singers Fall Concert: Puccini's Messa di Gloria",
+   "town": "Springfield",
+   "url": "https://www.ksmu.org/community-calendar/event/springfield-singers-fall-concert-sunday-october-25-3-00-pm-03-10-2026-17-17-24",
+   "venue": "Immaculate Conception Catholic Church"
+  },
+  {
+   "day": "2026-10-25",
+   "note": "Club lists 6 p.m.; Bandsintown says 8 p.m. Trust the club.",
+   "price": "",
+   "tags": [
+    "comedy"
+   ],
+   "time": "6 p.m.",
+   "title": "Jerry Wayne Longmire",
+   "town": "Springfield",
+   "url": "https://www.comedyspringfield.com/shows/369139",
+   "venue": "Springfield Comedy Club"
+  },
+  {
+   "day": "2026-10-25",
+   "note": "Doors 6:30 p.m. All ages.",
+   "price": "$34",
+   "tags": [
+    "music"
+   ],
+   "time": "7:30 p.m.",
+   "title": "Austin Meade",
+   "town": "Springfield",
+   "url": "https://www.itsalldowntown.com/calendar/austin-meade-at-the-regency-live/",
+   "venue": "The Regency Live"
+  }
+ ],
+ "summary": "T.J. Miller headlines the Springfield Comedy Club Friday and Saturday, Rainn Wilson gives a free talk at Hammons Hall Friday, and Saturday is packed with free family Halloween fun at Park Central Square, the Botanical Gardens and Rutledge-Wilson Farm Park. Jesus Christ Superstar and Arsenic and Old Lace are on stage, and Josh Turner plays Branson's Mansion Theatre Saturday.",
+ "unconfirmed": [
+  {
+   "day": "2026-10-19",
+   "note": "Listed by Bandsintown only.",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "11 a.m.",
+   "title": "Lindley Creek",
+   "town": "Branson",
+   "url": "https://www.bandsintown.com/c/springfield-mo",
+   "venue": "Silver Dollar City"
+  },
+  {
+   "day": "2026-10-20",
+   "note": "Listed on 417Jazz; venue not confirmed.",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "7 to 9 p.m.",
+   "title": "BG Jazz Band",
+   "town": "Springfield",
+   "url": "https://www.417jazz.com/calendar-live-jazz-springfield-where-to-watch",
+   "venue": ""
+  },
+  {
+   "day": "2026-10-21",
+   "note": "Bandsintown; likely on the Dark Divine bill, not on venue listing.",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "6 p.m.",
+   "title": "Fire From the Gods",
+   "town": "Springfield",
+   "url": "https://www.bandsintown.com/c/springfield-mo",
+   "venue": "The Regency Live"
+  },
+  {
+   "day": "2026-10-22",
+   "note": "Bandsintown; possibly Rittz support.",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "8 p.m.",
+   "title": "Otis Julius",
+   "town": "Springfield",
+   "url": "https://www.bandsintown.com/c/springfield-mo",
+   "venue": "The Regency Live"
+  },
+  {
+   "day": "2026-10-24",
+   "note": "Bandsintown; possibly part of Queen City Rage Fest.",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "6 p.m.",
+   "title": "Hang Your Hate",
+   "town": "Springfield",
+   "url": "https://www.bandsintown.com/c/springfield-mo",
+   "venue": "The Regency Live"
+  },
+  {
+   "day": "2026-10-25",
+   "note": "Bandsintown; possibly Austin Meade support.",
+   "price": "",
+   "tags": [
+    "music"
+   ],
+   "time": "7:30 p.m.",
+   "title": "Keith Fields and Cole Barnhill",
+   "town": "Springfield",
+   "url": "https://www.bandsintown.com/c/springfield-mo",
+   "venue": "The Regency Live"
+  }
+ ],
+ "updatedAt": "2026-10-17T07:11:29-05:00",
+ "weekEnd": "2026-10-25",
+ "weekStart": "2026-10-19"
+}

@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>SGF This Week</title>
+<meta name="description" content="Verified events in Springfield, MO and the Ozarks for the next seven days. Updated every Thursday.">
+<meta property="og:title" content="SGF This Week">
+<meta property="og:description" content="Verified events in Springfield, MO and the Ozarks for the next seven days. Updated every Thursday.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://sgfmoevents.com/">
+<meta name="theme-color" content="#f2f3ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141816" media="(prefers-color-scheme: dark)">
+<style>body{margin:0;font-size:14px}[hidden]{display:none!important}img{max-width:100%}</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one narrow column read like a printed weekly listing; days as ruled sections, weekend days set on a tinted band. */
+:root{color-scheme:light;
+  --bg:#f2f3ef; --surface:#ffffff; --ink:#1d221f; --muted:#5d665f; --line:#d9ddd5;
+  --accent:#8e2a57; --accent-soft:#f3e3ea; --weekend:#e8ece2; --free:#2f6b45; --warn:#8a5a00; --warn-soft:#f6ecd6;
+  --display:"Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
+  --body:"Public Sans", "Helvetica Neue", Arial, sans-serif;
+  --mono:"JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141816; --surface:#1c211e; --ink:#e7ebe6; --muted:#9aa49c; --line:#2e3530;
+  --accent:#e586b1; --accent-soft:#3a2230; --weekend:#1f2621; --free:#7cc796; --warn:#e3b65a; --warn-soft:#33291a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141816; --surface:#1c211e; --ink:#e7ebe6; --muted:#9aa49c; --line:#2e3530;
+  --accent:#e586b1; --accent-soft:#3a2230; --weekend:#1f2621; --free:#7cc796; --warn:#e3b65a; --warn-soft:#33291a; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+.wrap{max-width:760px;margin:0 auto;padding-block:28px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:28px}
+header{display:flex;flex-direction:column;gap:10px}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(34px,7vw,52px);line-height:1.02;margin:0;letter-spacing:-.01em;text-wrap:balance}
+.meta{color:var(--muted);font-size:14px;display:flex;flex-wrap:wrap;gap:6px 16px}
+.summary{font-size:16px;max-width:62ch;margin:0}
+.filters{display:flex;flex-wrap:wrap;gap:8px}
+.chip{font:500 13px var(--body);border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible,summary:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.days{display:flex;flex-direction:column;gap:6px}
+.day{border-top:2px solid var(--ink);padding-block:12px 8px}
+.day.weekend{background:var(--weekend);border-radius:0 0 6px 6px;padding-left:12px;padding-right:12px}
+.dayhead{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:6px}
+.dayhead h2{font-family:var(--display);font-weight:700;font-size:22px;margin:0}
+.dayhead span{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.ev{display:grid;grid-template-columns:5.5rem 1fr auto;gap:4px 14px;padding-block:10px;border-bottom:1px solid var(--line)}
+.ev:last-child{border-bottom:0}
+.time{font-family:var(--mono);font-size:13px;color:var(--muted);padding-top:2px;font-variant-numeric:tabular-nums}
+.what{min-width:0}
+.what h3{font:600 15.5px/1.35 var(--body);margin:0}
+.what h3 a{color:inherit;text-decoration-color:var(--line);text-underline-offset:3px}
+.where{color:var(--muted);font-size:13.5px}
+.note{font-size:13.5px;margin-top:2px}
+.town{font-family:var(--mono);font-size:11px;letter-spacing:.04em;text-transform:uppercase;color:var(--accent);background:var(--accent-soft);border-radius:4px;padding:1px 6px;margin-left:6px;white-space:nowrap}
+.price{font-family:var(--mono);font-size:13px;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.price.free{color:var(--free)}
+.none{color:var(--muted);font-size:14px;padding-block:6px}
+details{background:var(--warn-soft);border-radius:8px;padding:12px 14px}
+summary{cursor:pointer;font-weight:600;color:var(--warn)}
+details p{font-size:13.5px;color:var(--muted);margin:8px 0}
+.foot{font-size:13px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px;display:flex;flex-direction:column;gap:6px}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:8px;padding:28px 20px;color:var(--muted)}
+.empty strong{color:var(--ink);display:block;font-family:var(--display);font-size:20px;margin-bottom:6px}
+@media (max-width:520px){.ev{grid-template-columns:1fr auto}.time{grid-column:1/-1;padding-top:0}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Springfield &amp; the 417 · verified listings</div>
+    <h1 id="title">This week in Springfield</h1>
+    <div class="meta"><span id="range">Updates every Thursday morning</span><span id="updated"></span></div>
+    <p class="summary" id="summary" hidden></p>
+  </header>
+
+  <div class="filters" role="group" aria-label="Filter events">
+    <button class="chip" id="f-all" data-f="all" aria-pressed="true">Everything</button>
+    <button class="chip" id="f-weekend" data-f="weekend" aria-pressed="false">Weekend only</button>
+    <button class="chip" id="f-free" data-f="free" aria-pressed="false">Free</button>
+    <button class="chip" id="f-family" data-f="family" aria-pressed="false">Family</button>
+    <button class="chip" id="f-out" data-f="out" aria-pressed="false">Day trips</button>
+  </div>
+
+  <main id="days" class="days">
+    <div class="empty"><strong>This week's list is on its way</strong>Every Thursday morning the page fills with events confirmed on local calendars and venue sites. If you're seeing this, the first run hasn't landed yet.</div>
+  </main>
+
+  <details id="unconf" hidden>
+    <summary id="unconf-sum">Unconfirmed leads</summary>
+    <p>Seen on ticket resale or aggregator sites but not on the venue's own calendar. Check with the venue before you buy or drive.</p>
+    <div id="unconf-list"></div>
+  </details>
+
+  <div class="foot" id="foot">
+    <span>Every listing above was confirmed on a curated local calendar or the venue's own site. Times and prices can change; check the link before you go.</span>
+    <span id="unread"></span>
+  </div>
+</div>
+
+<script>
+(function(){
+  var state = {data:null, filter:"all"};
+  var DAYN = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+  var MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  function pd(s){var p=String(s||"").split("-");return new Date(+p[0],(+p[1]||1)-1,+p[2]||1);}
+  function short(d){return MON[d.getMonth()]+" "+d.getDate();}
+  function el(tag,cls,text){var e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e;}
+  function isFree(p){return /^\s*free\b/i.test(p||"");}
+  function isWeekend(day){var g=pd(day).getDay();return g===0||g===5||g===6;}
+
+  function pass(ev){
+    var f=state.filter;
+    if(f==="weekend")return isWeekend(ev.day);
+    if(f==="free")return isFree(ev.price);
+    if(f==="family")return (ev.tags||[]).indexOf("family")>-1;
+    if(f==="out")return !!ev.town && !/^springfield$/i.test(ev.town);
+    return true;
+  }
+
+  function row(ev){
+    var r=el("div","ev");
+    r.appendChild(el("div","time",ev.time||"All day"));
+    var w=el("div","what"); var h=el("h3");
+    if(ev.url && /^https?:\/\//.test(ev.url)){var a=el("a",null,ev.title);a.href=ev.url;a.target="_blank";a.rel="noopener";h.appendChild(a);}else h.textContent=ev.title;
+    w.appendChild(h);
+    var wh=el("div","where",ev.venue||"");
+    if(ev.town && !/^springfield$/i.test(ev.town)) wh.appendChild(el("span","town",ev.town));
+    w.appendChild(wh);
+    if(ev.note) w.appendChild(el("div","note",ev.note));
+    r.appendChild(w);
+    r.appendChild(el("div","price"+(isFree(ev.price)?" free":""),ev.price||""));
+    return r;
+  }
+
+  function render(){
+    var d=state.data, box=document.getElementById("days");
+    if(!d||!d.weekStart){return;}
+    var s=pd(d.weekStart), e=pd(d.weekEnd||d.weekStart);
+    document.getElementById("range").textContent="Week of "+short(s)+" to "+short(e)+", "+e.getFullYear();
+    if(d.updatedAt){var u=new Date(d.updatedAt); if(!isNaN(u)) document.getElementById("updated").textContent="Updated "+DAYN[u.getDay()]+" "+short(u)+" "+u.toLocaleTimeString([], {hour:"numeric",minute:"2-digit"});}
+    var sm=document.getElementById("summary"); if(d.summary){sm.textContent=d.summary;sm.hidden=false;}else sm.hidden=true;
+
+    var evs=(d.events||[]).filter(pass);
+    box.textContent="";
+    for(var t=new Date(s); t<=e; t.setDate(t.getDate()+1)){
+      var key=t.getFullYear()+"-"+String(t.getMonth()+1).padStart(2,"0")+"-"+String(t.getDate()).padStart(2,"0");
+      if(state.filter==="weekend" && !isWeekend(key)) continue;
+      var list=evs.filter(function(x){return x.day===key;});
+      var sec=el("section","day"+(isWeekend(key)?" weekend":""));
+      var hd=el("div","dayhead"); hd.appendChild(el("h2",null,DAYN[t.getDay()])); hd.appendChild(el("span",null,short(t)));
+      sec.appendChild(hd);
+      if(!list.length) sec.appendChild(el("div","none","Nothing confirmed that matches."));
+      list.forEach(function(x){sec.appendChild(row(x));});
+      box.appendChild(sec);
+    }
+
+    var un=d.unconfirmed||[], ub=document.getElementById("unconf");
+    if(un.length){
+      document.getElementById("unconf-sum").textContent="Unconfirmed leads ("+un.length+")";
+      var ul=document.getElementById("unconf-list"); ul.textContent="";
+      un.forEach(function(x){var r=row(x); r.querySelector(".time").textContent=x.day?short(pd(x.day)):"TBD"; ul.appendChild(r);});
+      ub.hidden=false;
+    } else ub.hidden=true;
+
+    var ur=d.couldNotRead||[];
+    document.getElementById("unread").textContent = ur.length ? "Couldn't read this week (blank to automated checks, not necessarily empty): "+ur.join(", ")+"." : "";
+  }
+
+  document.querySelectorAll(".chip").forEach(function(b){
+    b.addEventListener("click",function(){
+      state.filter=b.getAttribute("data-f");
+      document.querySelectorAll(".chip").forEach(function(c){c.setAttribute("aria-pressed",c===b?"true":"false");});
+      render();
+    });
+  });
+
+  fetch("data/week.json?v="+Date.now(),{cache:"no-store"})
+    .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function(d){ state.data=d; render(); })
+    .catch(function(){
+      document.getElementById("days").innerHTML='<div class="empty"><strong>Couldn\'t load this week\'s list</strong>Refresh the page in a minute. If it keeps happening, the weekly update may have failed.</div>';
+    });
+})();
+</script>
+</body>
+</html>
