@@ -2,7 +2,7 @@
 
 Publish SGF events in one place drawing from a variety of sources.
 
-Live at https://sgfmoevents.com
+Live at https://justincimino.github.io/sgf-this-week/
 
 ## How it works
 
