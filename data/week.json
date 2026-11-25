@@ -1,265 +1,270 @@
 {
-  "weekStart": "2026-11-18",
-  "weekEnd": "2026-11-24",
-  "updatedAt": "2026-11-18T07:03:00-06:00",
-  "summary": "Saturday is the big day: Springfield's Christmas Parade and Mayor's Tree Lighting share a date for the first time, with the Ozark Christmas Parade that evening and Missouri State hoops against Drake. The FEZtival of Trees runs Friday to Sunday, Matt Mathews, Rob Schneider, Chad Daniels and Leanne Morgan bring comedy, and Ozark Jubilee Live revives a Springfield classic Friday.",
+  "weekStart": "2026-11-25",
+  "weekEnd": "2026-12-01",
+  "updatedAt": "2026-11-25T07:20:00-06:00",
+  "summary": "Thanksgiving weekend brings Rudolph's opening at the Landers, Gardens Aglow's first nights, Missouri State football against No. 21 Liberty, a Last Waltz tribute and MOJO's Swingin' Christmas Saturday, and the new Branson Christkindlmarkt. Earlier in the week, the Turkey Trot runs Thanksgiving morning (snow is possible) and Christmas Vacation screens at the Gillioz on Black Friday.",
   "events": [
     {
-      "day": "2026-11-18",
+      "day": "2026-11-25",
       "time": "",
       "title": "An Old Time Christmas",
       "venue": "Silver Dollar City",
       "town": "Branson",
       "price": "",
       "url": "https://www.silverdollarcity.com/press/christmas-2026/",
-      "note": "Runs Nov. 7, 2026 to Jan. 2, 2027, with 6.5 million lights and the new Stars, Lights & Christmas Nights Parade. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "note": "Runs Nov. 7 to Jan. 2 with 6.5 million lights and the Stars, Lights & Christmas Nights Parade; Heart of Christmas with Lindley Creek plays through Dec. 3. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
         "family",
         "festival"
       ]
     },
     {
-      "day": "2026-11-18",
+      "day": "2026-11-25",
       "time": "",
       "title": "Sea of Lights",
       "venue": "Wonders of Wildlife",
       "town": "Springfield",
       "price": "",
-      "url": "https://wondersofwildlife.org/holidays/",
+      "url": "https://www.springfieldmo.org/blog/post/holiday-events-you-have-to-attend-this-year/",
       "note": "Open daily since Nov. 1; included with general admission. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
         "family"
       ]
     },
     {
-      "day": "2026-11-18",
+      "day": "2026-11-25",
       "time": "",
-      "title": "Open Mic Night",
-      "venue": "Springfield Comedy Club",
+      "title": "Santa's Wonderland",
+      "venue": "Bass Pro Shops Outdoor World",
       "town": "Springfield",
-      "price": "",
-      "url": "https://www.comedyspringfield.com/pages/open-mic-night",
-      "note": "Weekly on Wednesdays. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "price": "Free",
+      "url": "https://www.springfieldmo.org/blog/post/holiday-events-you-have-to-attend-this-year/",
+      "note": "Free photo with Santa and kids' activities, Nov. 7 to Dec. 24. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
-        "comedy"
+        "family"
       ]
     },
     {
-      "day": "2026-11-18",
-      "time": "11 a.m.",
-      "title": "Drury Women's Basketball vs. Arkansas-Fort Smith",
-      "venue": "O'Reilly Family Event Center",
+      "day": "2026-11-25",
+      "time": "",
+      "title": "Rudolph the Red-Nosed Reindeer (preview)",
+      "venue": "Landers Theatre",
       "town": "Springfield",
       "price": "",
-      "url": "https://drurypanthers.com/sports/womens-basketball/schedule",
-      "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "url": "https://www.springfieldlittletheatre.org/show/rudolph/",
+      "note": "The theatre's posted schedule lists 7:30 p.m. for the preview; times not taken from 417 Magazine or It's All Downtown, so check before going. Rated G; adults $35 to $60. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
-        "sports"
+        "theatre",
+        "family"
       ]
     },
     {
-      "day": "2026-11-18",
+      "day": "2026-11-25",
       "time": "Dusk to 10 p.m.",
       "title": "Trail of Lights",
       "venue": "The Shepherd of the Hills",
       "town": "Branson",
       "price": "$30 to $35 per carload",
       "url": "https://theshepherdofthehills.com/trail-of-lights/",
-      "note": "Drive-through lights nightly Nov. 6 to Jan. 2; open until 11 p.m. Fridays and Saturdays. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "note": "Drive-through lights nightly through Jan. 2; until 11 p.m. Fridays and Saturdays. $3 off for locals and veterans. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
         "family",
         "outdoors"
       ]
     },
     {
-      "day": "2026-11-18",
-      "time": "6 p.m. to 8 p.m.",
-      "title": "Pasta 101 Workshop",
-      "venue": "Finley Farms, Riverside Room",
-      "town": "Ozark",
-      "price": "",
-      "url": "https://finleyfarmsmo.com/happenings/",
-      "note": "Beginner class on fresh pasta from scratch. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "food",
-        "class"
-      ]
-    },
-    {
-      "day": "2026-11-18",
-      "time": "6 p.m. to 9 p.m.",
-      "title": "KSMU Trivia Night",
-      "venue": "Tie & Timber Beer Company",
+      "day": "2026-11-25",
+      "time": "7 p.m.",
+      "title": "Thanksgiving Eve Comedy Bash",
+      "venue": "Springfield Comedy Club",
       "town": "Springfield",
       "price": "",
-      "url": "https://www.ksmu.org/trivia",
-      "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "url": "https://www.comedyspringfield.com/calendar",
+      "note": "Local comics. Club is closed Thanksgiving Day. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
-        "food"
+        "comedy"
       ]
     },
     {
-      "day": "2026-11-19",
+      "day": "2026-11-25",
+      "time": "7:30 p.m.",
+      "title": "Fatherland (open-caption screening)",
+      "venue": "Moxie Cinema",
+      "town": "Springfield",
+      "price": "",
+      "url": "https://moxiecinema.com/films/fatherland",
+      "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "film"
+      ]
+    },
+    {
+      "day": "2026-11-25",
+      "time": "7:45 p.m.",
+      "title": "Drury Men's Basketball vs. Central Missouri",
+      "venue": "O'Reilly Family Event Center",
+      "town": "Springfield",
+      "price": "",
+      "url": "https://drurypanthers.com/sports/mens-basketball/schedule",
+      "note": "Final night of the DoubleTree by Hilton Thanksgiving Classic. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "sports"
+      ]
+    },
+    {
+      "day": "2026-11-26",
       "time": "",
-      "title": "Pasta 102: Stuffed Pastas",
+      "title": "Thanksgiving Buffet at The Ozark Mill",
       "venue": "Finley Farms",
       "town": "Ozark",
-      "price": "",
-      "url": "https://finleyfarmsmo.com/happenings/",
-      "note": "Intermediate follow-up to Pasta 101. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "price": "$38, ages 4 to 12 $18",
+      "url": "https://finleyfarmsmo.com/events/thanksgiving-at-the-ozark-mill-2026/",
+      "note": "Reservations required. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
-        "food",
-        "class"
+        "food"
       ]
     },
     {
-      "day": "2026-11-19",
-      "time": "7 p.m.",
-      "title": "Friendsgiving Trivia",
+      "day": "2026-11-26",
+      "time": "8 a.m.",
+      "title": "32nd Annual Turkey Trot 5K",
+      "venue": "Springfield Expo Center",
+      "town": "Springfield",
+      "price": "$45, kids 12 and under $40",
+      "url": "https://www.parkboard.org/turkeytrot",
+      "note": "Run or walk, rain, snow or shine. Race-morning packet pickup 6 to 7:15 a.m.; online registration open until race morning. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "outdoors",
+        "family",
+        "sports"
+      ]
+    },
+    {
+      "day": "2026-11-26",
+      "time": "11:30 a.m. to 1:30 p.m.",
+      "title": "Love Your Neighbors Thanksgiving Feast",
+      "venue": "Our Lady of the Lake Catholic Parish Center",
+      "town": "Branson",
+      "price": "Free",
+      "url": "https://www.ky3.com/2026/11/25/elevate-branson-thanksgiving-tradition-makes-sure-no-one-spends-holiday-alone/",
+      "note": "Elevate Branson's free community meal, open to all with no income requirements. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "food",
+        "family"
+      ]
+    },
+    {
+      "day": "2026-11-27",
+      "time": "",
+      "title": "Rudolph the Red-Nosed Reindeer (opening night)",
+      "venue": "Landers Theatre",
+      "town": "Springfield",
+      "price": "",
+      "url": "https://www.springfieldlittletheatre.org/show/rudolph/",
+      "note": "The theatre's posted schedule lists 7:30 p.m.; times not taken from 417 Magazine or It's All Downtown, so check before going. Rated G; adults $35 to $60. Runs through Dec. 13. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "theatre",
+        "family"
+      ]
+    },
+    {
+      "day": "2026-11-27",
+      "time": "4 p.m. to 8 p.m.",
+      "title": "Branson Christkindlmarkt (opening day)",
+      "venue": "The Shoppes at Branson Meadows",
+      "town": "Branson",
+      "price": "Free",
+      "url": "https://www.bransonchristkindlmarkt.com/",
+      "note": "New European-style Christmas market with artisan vendors, food, live entertainment and a 26-foot tree. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "festival",
+        "food",
+        "family"
+      ]
+    },
+    {
+      "day": "2026-11-27",
+      "time": "5 p.m. to 8:30 p.m.",
+      "title": "Gardens Aglow",
+      "venue": "Mizumoto Japanese Stroll Garden",
+      "town": "Springfield",
+      "price": "",
+      "url": "https://www.friendsofthegarden.org/events/gardens-aglow/",
+      "note": "Opening weekend of the light festival; also Dec. 4 to 6, 11 to 13, 16 to 23 and 26 to 27. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "family",
+        "outdoors"
+      ]
+    },
+    {
+      "day": "2026-11-27",
+      "time": "7 p.m. and 9:45 p.m.",
+      "title": "Katherine Blanford",
       "venue": "Springfield Comedy Club",
       "town": "Springfield",
       "price": "",
-      "url": "https://www.comedyspringfield.com/events",
+      "url": "https://www.comedyspringfield.com/calendar",
       "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
         "comedy"
       ]
     },
     {
-      "day": "2026-11-19",
-      "time": "7 p.m. to 8 p.m.",
-      "title": "Pulitzer Prize-winning author Daniel Kraus: \"Angel Down\"",
-      "venue": "The Library Center",
-      "town": "Springfield",
-      "price": "",
-      "url": "https://thelibrary.libnet.info/event/16764791",
-      "note": "In conversation with Sean O'Connor. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "arts"
-      ]
-    },
-    {
-      "day": "2026-11-20",
-      "time": "3 p.m. to 8 p.m.",
-      "title": "FEZtival of Trees",
-      "venue": "Abou Ben Adhem Shrine Mosque",
-      "town": "Springfield",
-      "price": "$5, 12 and under free",
-      "url": "https://www.abashrine.com/new-events-1/feztival-of-trees",
-      "note": "Dozens of decorated trees donated by local businesses; $1 raffle tickets. Runs Nov. 20 to 22. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "family",
-        "festival"
-      ]
-    },
-    {
-      "day": "2026-11-20",
-      "time": "7 p.m.",
-      "title": "Matt Mathews: Not What I Ordered World Tour",
-      "venue": "Juanita K. Hammons Hall for the Performing Arts",
-      "town": "Springfield",
-      "price": "",
-      "url": "https://www.hammonshall.com/viewshow.aspx?ID=4067",
-      "note": "Some ticket sites list 8 p.m.; the hall lists 7 p.m. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "comedy"
-      ]
-    },
-    {
-      "day": "2026-11-20",
-      "time": "7 p.m. and 9:45 p.m.",
-      "title": "Dan Docimo",
-      "venue": "Springfield Comedy Club",
-      "town": "Springfield",
-      "price": "",
-      "url": "https://www.comedyspringfield.com/events",
-      "note": "The club's homepage also shows Chad Daniels on this date; its events page lists Dan Docimo. Check before going. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "comedy"
-      ]
-    },
-    {
-      "day": "2026-11-20",
-      "time": "7:30 p.m.",
-      "title": "Ozark Jubilee Live",
-      "venue": "Historic Fox Theatre",
-      "town": "Springfield",
-      "price": "",
-      "url": "https://historymuseumonthesquare.org/product/ozark-jubilee-tribute-concert-fundraiser/",
-      "note": "History Museum on the Square fundraiser with music, comedy and dance; doors 6:30 p.m. Also on the It's All Downtown calendar. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "music",
-        "arts"
-      ]
-    },
-    {
-      "day": "2026-11-20",
+      "day": "2026-11-27",
       "time": "8 p.m.",
-      "title": "Wine & Jazz Series with The Melody Room",
-      "venue": "The Gallery at the Gillioz",
+      "title": "National Lampoon's Christmas Vacation",
+      "venue": "Gillioz Theatre",
       "town": "Springfield",
-      "price": "$40",
-      "url": "https://gillioztheatre.com/event-genres/jazz/",
-      "note": "21 and up; doors 7:30 p.m.; first glass of wine included. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "price": "$12 to $25",
+      "url": "https://gillioztheatre.com/event/fall-classics-national-lampoons-christmas-vacation-2026/gillioz-theatre/e-springfield-missouri/",
+      "note": "Annual Black Friday big-screen showing; doors 7 p.m. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
-        "music"
+        "film"
       ]
     },
     {
-      "day": "2026-11-20",
-      "time": "8 p.m.",
-      "title": "Lucero",
-      "venue": "The Regency Live",
+      "day": "2026-11-28",
+      "time": "",
+      "title": "Small Business Saturday",
+      "venue": "Downtown Springfield",
       "town": "Springfield",
-      "price": "",
-      "url": "https://www.itsalldowntown.com/calendar/",
-      "note": "Doors 7 p.m. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "music"
-      ]
-    },
-    {
-      "day": "2026-11-21",
-      "time": "",
-      "title": "Schofield + Gray Holiday Gift and Antique Market",
-      "venue": "Schofield + Gray",
-      "town": "Fordland",
-      "price": "$5",
-      "url": "https://www.springfieldmo.org/blog/post/holiday-markets-to-attend-this-year-around-the-ozarks/",
-      "note": "One-day pop-up market. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "food"
-      ]
-    },
-    {
-      "day": "2026-11-21",
-      "time": "",
-      "title": "Kimberling City Christmas Tree Lighting",
-      "venue": "Kimberling City",
-      "town": "Kimberling City",
-      "price": "",
-      "url": "https://business.visittablerocklake.com/events/calendar",
-      "note": "Time not listed. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "price": "Free",
+      "url": "https://www.itsalldowntown.com/",
+      "note": "Shop local downtown; check It's All Downtown for this year's promotions. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
         "family"
       ]
     },
     {
-      "day": "2026-11-21",
-      "time": "9 a.m. to 8 p.m.",
-      "title": "FEZtival of Trees",
-      "venue": "Abou Ben Adhem Shrine Mosque",
+      "day": "2026-11-28",
+      "time": "",
+      "title": "Heartland Holiday Market",
+      "venue": "Springfield Expo Center",
       "town": "Springfield",
-      "price": "$5, 12 and under free",
-      "url": "https://www.abashrine.com/new-events-1/feztival-of-trees",
-      "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "price": "",
+      "url": "https://www.springfieldmo.org/blog/post/holiday-markets-to-attend-this-year-around-the-ozarks/",
+      "note": "Handmade gifts, decor and treats from local makers, plus Santa visits. Runs Nov. 28 to 29; hours not posted. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
         "family",
-        "festival"
+        "food"
       ]
     },
     {
-      "day": "2026-11-21",
+      "day": "2026-11-28",
+      "time": "",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "venue": "Landers Theatre",
+      "town": "Springfield",
+      "price": "",
+      "url": "https://www.springfieldlittletheatre.org/show/rudolph/",
+      "note": "The theatre's posted schedule lists a 2 p.m. matinee; times not taken from 417 Magazine or It's All Downtown, so check before going. Rated G; adults $35 to $60. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "theatre",
+        "family"
+      ]
+    },
+    {
+      "day": "2026-11-28",
       "time": "10 a.m. to 2 p.m.",
       "title": "C-Street Christmas Market",
       "venue": "Historic Commercial Street",
@@ -273,293 +278,285 @@
       ]
     },
     {
-      "day": "2026-11-21",
-      "time": "Noon",
-      "title": "Merry Market (Downtown for the Holidays)",
-      "venue": "Park Central Square",
-      "town": "Springfield",
+      "day": "2026-11-28",
+      "time": "Noon to 8 p.m.",
+      "title": "Branson Christkindlmarkt",
+      "venue": "The Shoppes at Branson Meadows",
+      "town": "Branson",
       "price": "Free",
-      "url": "https://www.ksmu.org/news/2026-11-16/springfield-to-host-christmas-parade-and-tree-lighting-nov-21",
-      "note": "Kicks off the city's Downtown for the Holidays day. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "family",
-        "festival"
-      ]
-    },
-    {
-      "day": "2026-11-21",
-      "time": "1 p.m. to 3 p.m.",
-      "title": "DIY Patchwork Apron Workshop",
-      "venue": "Finley Farms",
-      "town": "Ozark",
-      "price": "",
-      "url": "https://finleyfarmsmo.com/happenings/",
+      "url": "https://www.bransonchristkindlmarkt.com/",
       "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
-        "class"
-      ]
-    },
-    {
-      "day": "2026-11-21",
-      "time": "2 p.m.",
-      "title": "Missouri State Men's Basketball vs. Drake",
-      "venue": "Great Southern Bank Arena",
-      "town": "Springfield",
-      "price": "",
-      "url": "https://missouristatebears.com/game-center/8043",
-      "note": "White Out and Kids Day. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "sports",
+        "festival",
+        "food",
         "family"
       ]
     },
     {
-      "day": "2026-11-21",
-      "time": "3 p.m.",
-      "title": "Springfield Christmas Parade",
-      "venue": "Downtown Springfield",
+      "day": "2026-11-28",
+      "time": "1 p.m.",
+      "title": "Missouri State Football vs. No. 21 Liberty",
+      "venue": "Robert W. Plaster Stadium",
       "town": "Springfield",
-      "price": "Free",
-      "url": "https://www.ky3.com/2026/11/10/springfield-christmas-parade-mayors-tree-lighting-set-nov-21/",
-      "note": "Theme \"Home for the Holidays,\" with Mayor Jeff Schrag as grand marshal. First year the parade and tree lighting share a day. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "price": "From $20",
+      "url": "https://missouristatebears.com/news/2026/11/24/football-mo-state-takes-on-no-21-liberty-in-senior-day-finale",
+      "note": "Senior Day and regular-season finale; first ranked FBS team to visit Plaster Stadium. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
-        "family",
-        "festival"
+        "sports"
       ]
     },
     {
-      "day": "2026-11-21",
-      "time": "3 p.m. to 7:30 p.m.",
-      "title": "Ozark Christmas Parade Gathering",
-      "venue": "Finley Farms, The Workshop",
-      "town": "Ozark",
+      "day": "2026-11-28",
+      "time": "5 p.m. to 8:30 p.m.",
+      "title": "Gardens Aglow",
+      "venue": "Mizumoto Japanese Stroll Garden",
+      "town": "Springfield",
       "price": "",
-      "url": "https://finleyfarmsmo.com/happenings/",
-      "note": "Hot chocolate, fire-baked pizza and campfires on parade night. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "url": "https://www.friendsofthegarden.org/events/gardens-aglow/",
+      "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "family",
+        "outdoors"
+      ]
+    },
+    {
+      "day": "2026-11-28",
+      "time": "6 p.m. and 8:45 p.m.",
+      "title": "Katherine Blanford",
+      "venue": "Springfield Comedy Club",
+      "town": "Springfield",
+      "price": "",
+      "url": "https://www.comedyspringfield.com/calendar",
+      "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "day": "2026-11-28",
+      "time": "7 p.m.",
+      "title": "The Last Waltz 50th Anniversary Tribute",
+      "venue": "Tie & Timber Beer Co.",
+      "town": "Springfield",
+      "price": "$15 advance, $20 at the door",
+      "url": "https://www.ksmu.org/news/2026-11-24/local-concert-to-celebrate-50th-anniversary-of-the-last-waltz",
+      "note": "Springfield musicians, including Big Smith's Jody Bilyeu, play The Band's farewell concert. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "day": "2026-11-28",
+      "time": "7:30 p.m.",
+      "title": "MOJO: A Swingin' Christmas",
+      "venue": "Gillioz Theatre",
+      "town": "Springfield",
+      "price": "$29 to $34",
+      "url": "https://gillioztheatre.com/event/mojo-a-swingin-christmas/gillioz-theatre/e-springfield-missouri/",
+      "note": "Missouri Jazz Orchestra with guest vocalists and sing-alongs; doors 6:30 p.m., general admission. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "tags": [
+        "music",
+        "family"
+      ]
+    },
+    {
+      "day": "2026-11-29",
+      "time": "",
+      "title": "Heartland Holiday Market (final day)",
+      "venue": "Springfield Expo Center",
+      "town": "Springfield",
+      "price": "",
+      "url": "https://www.springfieldmo.org/blog/post/holiday-markets-to-attend-this-year-around-the-ozarks/",
+      "note": "Hours not posted. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
         "family",
         "food"
       ]
     },
     {
-      "day": "2026-11-21",
-      "time": "5 p.m. to 5:30 p.m.",
-      "title": "Big Cedar Lodge Christmas Tree Lighting",
-      "venue": "Big Cedar Lodge",
-      "town": "Ridgedale",
+      "day": "2026-11-29",
+      "time": "",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "venue": "Landers Theatre",
+      "town": "Springfield",
       "price": "",
-      "url": "https://bigcedar.com/events/",
-      "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "url": "https://www.springfieldlittletheatre.org/show/rudolph/",
+      "note": "The theatre's posted schedule lists a 2 p.m. matinee; times not taken from 417 Magazine or It's All Downtown, so check before going. Rated G; adults $35 to $60. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
+        "theatre",
         "family"
       ]
     },
     {
-      "day": "2026-11-21",
-      "time": "5:30 p.m.",
-      "title": "61st Ozark Chamber Christmas Parade",
-      "venue": "Historic Downtown Ozark",
-      "town": "Ozark",
+      "day": "2026-11-29",
+      "time": "1 p.m. to 6 p.m.",
+      "title": "Branson Christkindlmarkt",
+      "venue": "The Shoppes at Branson Meadows",
+      "town": "Branson",
       "price": "Free",
-      "url": "https://www.ozarkchamber.com/christmas-parade/",
-      "note": "Theme \"Patriotic Christmas.\" Santa Village on the Square 2 to 5:30 p.m. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "url": "https://www.bransonchristkindlmarkt.com/",
+      "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
-        "family",
-        "festival"
-      ]
-    },
-    {
-      "day": "2026-11-21",
-      "time": "6 p.m.",
-      "title": "Mayor's Tree Lighting Holiday Show",
-      "venue": "Park Central Square",
-      "town": "Springfield",
-      "price": "Free",
-      "url": "https://www.ksmu.org/news/2026-11-16/springfield-to-host-christmas-parade-and-tree-lighting-nov-21",
-      "note": "Santa arrives at 6 p.m., show at 6:30 p.m., tree lighting about 7 p.m. Free ice skating and carriage rides. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "family",
         "festival",
-        "music"
+        "food",
+        "family"
       ]
     },
     {
-      "day": "2026-11-21",
-      "time": "6 p.m. and 8:45 p.m.",
-      "title": "Chad Daniels",
-      "venue": "Springfield Comedy Club",
+      "day": "2026-11-29",
+      "time": "5 p.m. to 8:30 p.m.",
+      "title": "Gardens Aglow",
+      "venue": "Mizumoto Japanese Stroll Garden",
       "town": "Springfield",
       "price": "",
-      "url": "https://www.comedyspringfield.com/shows/359879",
-      "note": "Doors 5 p.m. and 8 p.m. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "comedy"
-      ]
-    },
-    {
-      "day": "2026-11-21",
-      "time": "7:30 p.m.",
-      "title": "Rob Schneider",
-      "venue": "Gillioz Theatre",
-      "town": "Springfield",
-      "price": "$58 to $128",
-      "url": "https://gillioztheatre.com/event-genres/comedy-arts/",
-      "note": "18 and up; doors 6:30 p.m. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "comedy"
-      ]
-    },
-    {
-      "day": "2026-11-22",
-      "time": "9 a.m. to 3 p.m.",
-      "title": "FEZtival of Trees (final day)",
-      "venue": "Abou Ben Adhem Shrine Mosque",
-      "town": "Springfield",
-      "price": "$5, 12 and under free",
-      "url": "https://www.abashrine.com/new-events-1/feztival-of-trees",
-      "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "url": "https://www.friendsofthegarden.org/events/gardens-aglow/",
+      "note": "Last night of opening weekend; returns Dec. 4. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
         "family",
-        "festival"
+        "outdoors"
       ]
     },
     {
-      "day": "2026-11-22",
+      "day": "2026-12-01",
       "time": "7 p.m.",
-      "title": "Leanne Morgan: The Time of Our Lives Tour",
-      "venue": "Great Southern Bank Arena",
+      "title": "Catch Your Breath: Not Broken Enough Tour",
+      "venue": "The Regency Live",
       "town": "Springfield",
       "price": "",
-      "url": "https://greatsouthernbankarena.com/ViewEvent.aspx?ID=4064",
-      "note": "Doors 6 p.m.; parking $20. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
+      "url": "https://theregencylive.com/events",
+      "note": "With TX2, Arankai and Colorblind. All ages; doors 6 p.m. Also on the It's All Downtown calendar. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
       "tags": [
-        "comedy"
-      ]
-    },
-    {
-      "day": "2026-11-24",
-      "time": "5:45 p.m.",
-      "title": "Drury Women's Basketball vs. Saginaw Valley State",
-      "venue": "O'Reilly Family Event Center",
-      "town": "Springfield",
-      "price": "",
-      "url": "https://drurypanthers.com/sports/womens-basketball/schedule",
-      "note": "Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "sports"
-      ]
-    },
-    {
-      "day": "2026-11-24",
-      "time": "7:45 p.m.",
-      "title": "Drury Men's Basketball vs. Pittsburg State",
-      "venue": "O'Reilly Family Event Center",
-      "town": "Springfield",
-      "price": "",
-      "url": "https://drurypanthers.com/sports/mens-basketball/schedule",
-      "note": "DoubleTree by Hilton Thanksgiving Classic. Confirmed from a search excerpt of this page; the page itself could not be opened this week.",
-      "tags": [
-        "sports"
+        "music"
       ]
     }
   ],
   "unconfirmed": [
     {
-      "day": "2026-11-21",
-      "time": "4 p.m. to 11 p.m.",
-      "title": "13th Annual Hot Rod Holiday",
-      "venue": "Ozark Empire Fairgrounds E-Plex",
+      "day": "2026-11-26",
+      "time": "8 a.m.",
+      "title": "Turkey Scramble 5K trail race",
+      "venue": "",
+      "town": "Ozark",
+      "price": "",
+      "url": "https://www.active.com/springfield-mo/running/distance-running-races/32nd-annual-turkey-trot-5k-run-walk-presented-by-coxhealth-2026",
+      "note": "Mentioned in race-listing search results only; organizer page not found.",
+      "tags": [
+        "outdoors"
+      ]
+    },
+    {
+      "day": "2026-11-27",
+      "time": "11 a.m.",
+      "title": "Black Friday Christmas Market",
+      "venue": "Springfield Expo Center",
       "town": "Springfield",
       "price": "",
-      "url": "https://www.cantonfair.net/event/42585-hot-rod-holiday-show",
-      "note": "Listed Nov. 21 to 22 by Canton Fair and somo.social aggregators only; hours conflict. Organizer page not found.",
+      "url": "https://www.promotix.com/event-discovery/cities/springfield-mo/events/",
+      "note": "Listed by Promotix only; may overlap with the Heartland Holiday Market.",
       "tags": [
         "family"
       ]
     },
     {
-      "day": "2026-11-20",
+      "day": "2026-11-28",
       "time": "",
-      "title": "National Collegiate Rugby Men's West Regionals",
-      "venue": "Betty & Bobby Allison Sports Town",
-      "town": "Springfield",
+      "title": "An American Christmas",
+      "venue": "Freedom Encounter Theater",
+      "town": "Branson",
       "price": "",
-      "url": "https://springfieldmosports.org/events/",
-      "note": "Nov. 20 to 22 per a search summary of the sports commission calendar; a direct search could not confirm 2026 dates.",
+      "url": "https://www.tripster.com/detail/an-american-christmas-branson",
+      "note": "Tripster listing only; runs Nov. 28 to Dec. 22.",
       "tags": [
-        "sports"
+        "music"
       ]
     },
     {
-      "day": "2026-11-20",
+      "day": "2026-11-28",
       "time": "",
-      "title": "Queen City Showcase (high school basketball)",
-      "venue": "Greenwood Laboratory School",
+      "title": "Santa Weekends on the Square",
+      "venue": "Park Central Square",
       "town": "Springfield",
       "price": "",
-      "url": "https://springfieldmosports.org/events/",
-      "note": "Nov. 20 to 22 per a search summary of the sports commission calendar; not confirmed.",
+      "url": "https://www.springfieldmo.gov/",
+      "note": "Mentioned in search results, but only 2025 dates could be found.",
       "tags": [
-        "sports"
+        "family"
       ]
     },
     {
-      "day": "2026-11-21",
-      "time": "7 p.m.",
-      "title": "Miss Fancy's House of Follies",
-      "venue": "Biggs Downtown",
+      "day": "2026-11-28",
+      "time": "10 a.m.",
+      "title": "Gingerbread House Decorating",
+      "venue": "1348 E. Cherry St.",
+      "town": "Springfield",
+      "price": "",
+      "url": "https://allevents.in/springfield-mo/all",
+      "note": "Listed by an aggregator search result only.",
+      "tags": [
+        "family",
+        "class"
+      ]
+    },
+    {
+      "day": "2026-11-28",
+      "time": "5 p.m.",
+      "title": "Hermitage Christmas Parade",
+      "venue": "Hermitage Square",
+      "town": "Hermitage",
+      "price": "Free",
+      "url": "https://www.ky3.com/2026/11/09/2026-christmas-parades-list-see-list-this-holiday-season/",
+      "note": "KY3 parade list only, not confirmed by the town; about 70 minutes north of Springfield.",
+      "tags": [
+        "family",
+        "festival"
+      ]
+    },
+    {
+      "day": "2026-11-28",
+      "time": "9 p.m.",
+      "title": "CTRL: Neon Ultraviolet",
+      "venue": "The Regency Live",
       "town": "Springfield",
       "price": "",
       "url": "https://www.itsalldowntown.com/calendar/",
-      "note": "Mentioned in a search summary of the It's All Downtown calendar; no listing page found.",
+      "note": "It's All Downtown entry looked garbled (mislabeled as Catch Your Breath); not on the venue page.",
       "tags": [
-        "arts"
+        "music"
       ]
     },
     {
-      "day": "2026-11-21",
-      "time": "",
-      "title": "Sylvia (Dade County Community Theater, closing night)",
-      "venue": "Dade County Art Connect",
-      "town": "",
+      "day": "2026-11-29",
+      "time": "2 p.m.",
+      "title": "Jeff & Sheri Easter",
+      "venue": "Red Gold Heritage Hall",
+      "town": "Branson",
       "price": "",
-      "url": "https://www.ksmu.org/community-calendar",
-      "note": "KSMU calendar lists Nov. 13 to 21; town and times not confirmed.",
+      "url": "https://www.bandsintown.com/c/springfield-mo",
+      "note": "Bandsintown only; also listed Nov. 30 at 4 p.m.",
       "tags": [
-        "theatre"
-      ]
-    },
-    {
-      "day": "2026-11-21",
-      "time": "",
-      "title": "Branson Area Garden Tractor Pull",
-      "venue": "Stone County Event Center",
-      "town": "",
-      "price": "",
-      "url": "https://business.visittablerocklake.com/events/calendar",
-      "note": "Listed on the Table Rock Lake calendar; time and town not confirmed.",
-      "tags": [
-        "family"
+        "music"
       ]
     }
   ],
   "couldNotRead": [
-    "All source websites could not be opened this run: the session's network policy blocked every site (417mag.com, itsalldowntown.com, ksmu.org, springfieldmo.gov, parkboard.org, venue sites, missouristatebears.com and others). Events were confirmed only from search excerpts of official pages.",
+    "All source websites could not be opened this run: the session's network policy blocked every site (417mag.com, itsalldowntown.com, comedyspringfield.com and others). Events were confirmed only from search excerpts of official pages.",
     "417 Magazine This Weekend",
     "It's All Downtown calendar",
     "KSMU community calendar",
     "City of Springfield RSS",
     "Park Board RSS",
     "Springfield-Greene County Library data feed",
-    "Springfield Little Theatre (no performance in range found; Rudolph previews Nov. 25)",
-    "Moxie Cinema showtimes",
     "Great Southern Bank Arena event list",
+    "Hammons Hall (no show in range; Lion King starts Dec. 2)",
+    "Moxie Cinema showtimes",
     "The Mansion Theatre",
-    "Friends of the Garden (Gardens Aglow 2026 dates not posted)",
+    "Finley Farms happenings (no weekend listings found)",
+    "Wonders of Wildlife calendar",
     "417Jazz",
     "Fairs and Festivals MO",
+    "Ozark Chamber",
     "Nixa Chamber",
-    "KY3 Christmas parades list (full list not readable)",
+    "Table Rock Lake Chamber",
     "Springfield Daily Citizen (skipped)",
     "417 Magazine interactive calendar (skipped)",
     "Eventbrite (skipped)",
